@@ -1,15 +1,12 @@
 #include “main.h”
+
 vi/**
-    * print_alphabet – function to print abc
+    * main - check the code
     *
     * Return: 0    
     */
-Void print_alphabet(void)
+int main(void)
 {
-	Char c;
-	For (c = ‘a’; c <= ‘z’; c++)
-	{
-		_putchar©;
-	}
-	_putchar(‘\n’);
+	    print_alphabet();
+	        return (0);
 }
