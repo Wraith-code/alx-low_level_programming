@@ -1,1 +1,5 @@
-Testing out my knowledge on c functions, loops and nested loops.
+0. isupper
+1. isdigit
+2. Collaboration is multiplication
+
+dd
